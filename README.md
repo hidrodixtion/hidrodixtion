@@ -4,10 +4,9 @@ No, I don't want to slow down your browser by putting a gif here.
 
 So, here's where you can reach me:
 
-- [My Website](https://adinugroho.my.id)
-- [My Twitter](https://twitter.com/adinugroho)
+> [My Website](https://adinugroho.my.id) | [Twitter](https://twitter.com/adinugroho)
 
-Thank you, for reading 🤩
+Thank you for reading 🤩
 
 <!--
 **hidrodixtion/hidrodixtion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
