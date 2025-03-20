@@ -2,10 +2,6 @@
 
 No, I don't want to slow down your browser by putting a gif here.
 
-So, here's where you can reach me:
-
-> [My Website](https://adinugroho.my.id) | [Twitter](https://twitter.com/adinugroho)
-
 Thank you for reading 🤩
 
 <!--
